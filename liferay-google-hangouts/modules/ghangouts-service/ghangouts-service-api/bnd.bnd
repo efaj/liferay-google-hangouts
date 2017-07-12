@@ -1,0 +1,11 @@
+Bundle-Name: Google Hangouts API
+Bundle-SymbolicName: com.rivetlogic.ghangouts.api
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.rivetlogic.ghangouts.exception,\
+	com.rivetlogic.ghangouts.model,\
+	com.rivetlogic.ghangouts.service,\
+	com.rivetlogic.ghangouts.service.persistence,\
+	com.rivetlogic.ghangouts.beans,\
+	com.rivetlogic.ghangouts.util
+-includeresource: META-INF/service.xml=../ghangouts-service-service/service.xml

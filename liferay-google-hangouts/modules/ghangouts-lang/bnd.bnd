@@ -1,0 +1,4 @@
+Bundle-Name: Google Hangouts Language
+Bundle-SymbolicName: com.rivetlogic.ghangouts.language
+Bundle-Version: 1.0.0
+Export-Package: com.rivetlogic.ghangouts.language

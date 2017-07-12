@@ -1,0 +1,1 @@
+create unique index IX_C5C86CB on rivetlogic_hangouts_HangoutsGroup (userId, groupName[$COLUMN_LENGTH:75$]);
